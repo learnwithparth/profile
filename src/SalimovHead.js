@@ -3,6 +3,7 @@ const SalimovHead = () => {
   return (
     <Head>
       <title>Parth Shah</title>
+      <link rel="icon" type="image/x-icon" href="assets/favicon.png"></link>
       <meta charSet="utf-8" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       {/* Template Google Fonts */}
