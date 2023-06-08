@@ -2,6 +2,7 @@ import Header from "@/src/components/Header";
 import ScrollBar from "@/src/components/ScrollBar";
 import About from "@/src/components/sections/About";
 import Blog from "@/src/components/sections/Blog";
+import Certificate from "@/src/components/sections/Certificate";
 import Clients from "@/src/components/sections/Clients";
 import Contact from "@/src/components/sections/Contact";
 import Copyright from "@/src/components/sections/Copyright";
@@ -29,13 +30,13 @@ const Index = () => {
             <Facts />
             <Separator type={"up"} />
             <Portfolio />
-            {/* <Separator type={"down"} /> */}
-            {/* <Testimonials /> */}
+            <Separator type={"down"} />
+            <Certificate />
             <Separator type={"up"} />
             <Contact />
-            <Separator type={"down"} />
+            {/* <Separator type={"down"} />
             <Clients />
-            <Separator type={"up"} />
+            <Separator type={"up"} /> */}
             <Blog />
             <Separator type={"down"} />
             <Copyright />
