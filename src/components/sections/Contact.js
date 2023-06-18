@@ -62,7 +62,7 @@ const Contact = () => {
                 </a>
               </li>
               <li>
-                <a href="#">
+                <a href="https://www.youtube.com/@learn-with-parth">
                   <i className="fa-brands fa-youtube" />
                 </a>
               </li>
