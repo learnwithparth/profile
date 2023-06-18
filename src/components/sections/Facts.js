@@ -40,12 +40,12 @@ const Facts = () => {
           <div>
             <div>
             <h3>09</h3>
-            {/* <a href="https://publons.com/researcher/4325047/parth-shah/"> */}
+            <a href="https://www.webofscience.com/wos/author/record/2237420">
             
               <p>
                 WoS<span>Publications</span>
               </p>
-              {/* </a> */}
+              </a>
             </div>
           </div>
         </div>
@@ -58,9 +58,12 @@ const Facts = () => {
           <div>
             <div>
               <h3>36</h3>
+              
+              <a href="https://www.scopus.com/authid/detail.uri?authorId=57190799699">
               <p>
                 Scopus<span>Publications</span>
               </p>
+              </a>
             </div>
           </div>
         </div>
